@@ -1,5 +1,5 @@
 # Oasis Infobyte Virtual Internship Submission
-Check [Medium](https://medium.com/p/7985049f8f10/edit) for documentation
+
 
 ## Purpose
 
